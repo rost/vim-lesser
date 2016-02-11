@@ -33,13 +33,13 @@ let colors_name = "lesser"
 :hi MatchParen    ctermfg=000   ctermbg=117   cterm=none
 
 " menu colors
-:hi Pmenu         ctermfg=255  ctermbg=236
-:hi PmenuSel      ctermfg=000  ctermbg=081
-:hi WildMenu      ctermfg=000  ctermbg=081
+:hi Pmenu         ctermfg=255   ctermbg=236
+:hi PmenuSel      ctermfg=000   ctermbg=081
+:hi WildMenu      ctermfg=000   ctermbg=081
 
 " msg colors
-:hi ErrorMsg      ctermfg=7     ctermbg=234   cterm=bold
-:hi WarningMsg    ctermfg=1                   cterm=bold
+:hi ErrorMsg      ctermfg=007   ctermbg=234   cterm=bold
+:hi WarningMsg    ctermfg=001                 cterm=bold
 :hi SpellBad      ctermfg=196   ctermbg=234   cterm=bold
 :hi SpellCap      ctermfg=196   ctermbg=234   cterm=bold
 
@@ -59,7 +59,7 @@ let colors_name = "lesser"
 :hi DiffDelete    ctermfg=160   ctermbg=none  cterm=none
 :hi DiffText      ctermfg=220   ctermbg=94    cterm=reverse,bold
 
-:hi DiffLine      ctermfg= 68   ctermbg=none  cterm=bold
+:hi DiffLine      ctermfg=068   ctermbg=none  cterm=bold
 :hi DiffFile      ctermfg=242   ctermbg=none  cterm=none
 :hi DiffNewFile   ctermfg=242   ctermbg=none  cterm=none
 
