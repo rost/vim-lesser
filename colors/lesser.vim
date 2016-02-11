@@ -81,11 +81,11 @@ let colors_name = "lesser"
 :hi Define        ctermfg=008
 :hi Function      ctermfg=250                 cterm=bold
 :hi Identifier    ctermfg=255                 cterm=bold
-:hi Include       ctermfg=244
+:hi Include       ctermfg=255                 cterm=bold " includes
 :hi Operator      ctermfg=242                 cterm=none " -> arrows, etc.
 :hi PreProc       ctermfg=007                 cterm=none
 :hi Special       ctermfg=247                 cterm=bold
-:hi Statement     ctermfg=255                 cterm=bold
+:hi Statement     ctermfg=255                 cterm=bold " forms
 :hi String        ctermfg=247
 :hi Todo          ctermfg=202   ctermbg=000   cterm=bold
 :hi Type          ctermfg=255                 cterm=bold
