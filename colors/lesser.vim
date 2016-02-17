@@ -76,7 +76,7 @@ let colors_name = "lesser"
 
 " syntax highlighting
 :hi Braces        ctermfg=252
-:hi Comment       ctermfg=242                 cterm=bold
+:hi Comment       ctermfg=242                 cterm=none
 :hi Constant      ctermfg=250                            " numbers, etc.
 :hi Define        ctermfg=008
 :hi Function      ctermfg=250                 cterm=bold
