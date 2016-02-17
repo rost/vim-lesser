@@ -23,7 +23,7 @@ let colors_name = "lesser"
 
 " gutter: folds
 :hi FoldColumn    ctermfg=081   ctermbg=000   cterm=bold
-:hi Folded        ctermfg=231   ctermbg=235   cterm=bold
+:hi Folded        ctermfg=255   ctermbg=000   cterm=bold
 :hi LineNr        ctermfg=003
 :hi NonText       ctermfg=255                 cterm=bold " tildes
 :hi Search        ctermfg=000   ctermbg=039   cterm=none
