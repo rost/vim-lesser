@@ -91,7 +91,7 @@ let colors_name = "lesser"
 :hi Type          ctermfg=255                 cterm=bold
 
 " vim-sneak
-:hi SneakStreakTarget   ctermfg=009    ctermbg=000   cterm=bold
-:hi SneakStreakMask     ctermfg=000    ctermbg=000   cterm=bold
-:hi SneakPluginTarget   ctermfg=009    ctermbg=000   cterm=bold
-:hi SneakPluginScope    ctermfg=009    ctermbg=000   cterm=bold
+:hi SneakStreakTarget   ctermfg=007    ctermbg=009   cterm=bold
+:hi SneakStreakMask     ctermfg=009    ctermbg=009   cterm=bold
+:hi SneakPluginTarget   ctermfg=007    ctermbg=009   cterm=bold
+:hi SneakPluginScope    ctermfg=007    ctermbg=009   cterm=bold
