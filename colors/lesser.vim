@@ -85,7 +85,7 @@ let colors_name = "lesser"
 :hi Operator      ctermfg=242                 cterm=none " -> arrows, etc.
 :hi PreProc       ctermfg=007                 cterm=none
 :hi Special       ctermfg=247                 cterm=bold
-:hi Statement     ctermfg=255                 cterm=bold " forms
+:hi Statement     ctermfg=245                 cterm=bold " forms
 :hi String        ctermfg=247
 :hi Todo          ctermfg=202   ctermbg=000   cterm=bold
 :hi Type          ctermfg=255                 cterm=bold
