@@ -26,7 +26,7 @@ let colors_name = "lesser"
 :hi Folded        ctermfg=255   ctermbg=000   cterm=bold
 :hi LineNr        ctermfg=003
 :hi NonText       ctermfg=255                 cterm=bold " tildes
-:hi Search        ctermfg=000   ctermbg=039   cterm=none
+:hi Search        ctermfg=000   ctermbg=117   cterm=none
 :hi SignColumn                  ctermbg=none  cterm=bold " gutter
 :hi SpecialKey    ctermfg=239
 :hi Title         ctermfg=007                 cterm=bold
@@ -78,7 +78,7 @@ let colors_name = "lesser"
 :hi Braces        ctermfg=252
 :hi Comment       ctermfg=242                 cterm=none
 :hi Constant      ctermfg=250                            " numbers, etc.
-:hi Define        ctermfg=008
+:hi Define        ctermfg=250
 :hi Function      ctermfg=250                 cterm=bold
 :hi Identifier    ctermfg=255                 cterm=bold
 :hi Include       ctermfg=255                 cterm=bold " includes
@@ -89,9 +89,3 @@ let colors_name = "lesser"
 :hi String        ctermfg=247
 :hi Todo          ctermfg=202   ctermbg=000   cterm=bold
 :hi Type          ctermfg=255                 cterm=bold
-
-" vim-sneak
-:hi SneakStreakTarget   ctermfg=007    ctermbg=009   cterm=bold
-:hi SneakStreakMask     ctermfg=009    ctermbg=009   cterm=bold
-:hi SneakPluginTarget   ctermfg=007    ctermbg=009   cterm=bold
-:hi SneakPluginScope    ctermfg=007    ctermbg=009   cterm=bold
