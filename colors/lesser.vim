@@ -68,6 +68,12 @@ let colors_name = "lesser"
 :hi LineNr        ctermfg=244
 
 " git gutter
+:hi GitGutterAdd           ctermfg=119   ctermbg=none  cterm=bold
+:hi GitGutterChange        ctermfg=227   ctermbg=none  cterm=bold
+:hi GitGutterDelete        ctermfg=167   ctermbg=none  cterm=bold
+:hi GitGutterChangeDelete  ctermfg=227   ctermbg=none  cterm=bold
+
+" signify
 :hi SignifySignAdd              ctermfg=002   ctermbg=000   cterm=bold
 :hi SignifySignChange           ctermfg=003   ctermbg=000   cterm=bold
 :hi SignifySignDelete           ctermfg=001   ctermbg=000   cterm=bold
