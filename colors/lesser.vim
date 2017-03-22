@@ -47,8 +47,8 @@ let colors_name = "lesser"
 :hi CursorLine    ctermfg=none  ctermbg=234   cterm=none
 
 " statusline
-:hi StatusLine    ctermfg=231   ctermbg=235   cterm=none
-:hi StatusLineNC  ctermfg=246   ctermbg=235   cterm=none
+:hi StatusLine    ctermfg=231   ctermbg=234   cterm=none
+:hi StatusLineNC  ctermfg=246   ctermbg=234   cterm=none
 
 :hi Underlined                                cterm=none
 :hi VertSplit                   ctermbg=none  cterm=none
