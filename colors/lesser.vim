@@ -44,7 +44,7 @@ let colors_name = "lesser"
 :hi SpellCap      ctermfg=196   ctermbg=234   cterm=bold
 
 " lines
-:hi CursorLine    ctermfg=none  ctermbg=234   cterm=none
+:hi CursorLine    ctermfg=none  ctermbg=235   cterm=none
 
 " statusline
 :hi StatusLine    ctermfg=231   ctermbg=234   cterm=none
